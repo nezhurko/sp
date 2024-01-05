@@ -1,0 +1,4 @@
+/home/ubuntu/lab4/sp/CMakeFiles/calculator.dir
+/home/ubuntu/lab4/sp/CMakeFiles/mycalculator.dir
+/home/ubuntu/lab4/sp/CMakeFiles/edit_cache.dir
+/home/ubuntu/lab4/sp/CMakeFiles/rebuild_cache.dir
